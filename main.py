@@ -81,4 +81,9 @@ with page:
     clear = gr.Button("Clear Chat")
     clear.click(lambda: (None, []), None, [msg, chatbot])
 
-page.launch()
+HOST = "0.0.0.0"
+PORT = 7860
+page.launch(
+    server_name=HOST,
+    server_port=PORT,
+    share=False)
