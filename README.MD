@@ -1,4 +1,5 @@
 # Ask Chanakya
+![Chanakya](https://github.com/akhilesh-halekote/ask-chanakya/blob/main/avatar.png)
 
 Welcome to **Ask Chanakya**, an interactive chatbot application that allows you to have a conversation with Chanakya, the great political strategist, economist, and philosopher. This project leverages the power of LangChain, Google Generative AI, and Gradio to create an engaging and insightful experience.
 
