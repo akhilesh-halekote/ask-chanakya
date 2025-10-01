@@ -64,3 +64,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - Gradio
 - Google Generative AI 
 #### Enjoy your conversation with Chanakya!
+
+## Demo
+- Screen shot
+![screen_shot](https://github.com/akhilesh-halekote/ask-chanakya/blob/main/readme/ui.png)
+- You can try this out [here](https://ask-chanakya-production.up.railway.app)
