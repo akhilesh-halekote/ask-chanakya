@@ -1,13 +1,11 @@
 from dotenv import load_dotenv
 import os
-
 from langchain_core.messages import HumanMessage, AIMessage
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_google_genai import ChatGoogleGenerativeAI
 import gradio as gr
-
-load_dotenv()
+#load_dotenv()
 gemini_api_key = os.getenv("GEMINI_API_KEY")
 
 
